@@ -1,3 +1,12 @@
 Estou aprendendo GIT agora, este é meu primeiro código. 
 
 Agora estou testanto minha segunda versão do código, após finalizar o primeiro versionamento do meu github. 
+
+
+
+-
+-
+-
+-
+
+Após avançarmos, estou criando uma segunda BRANCH e realizando um GIT PUSH
